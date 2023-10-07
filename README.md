@@ -1,3 +1,8 @@
+
+
+[![DOI](https://zenodo.org/badge/701327989.svg)](https://zenodo.org/badge/latestdoi/701327989)
+
+
 # xploreaop
 
 `{xploreaop}` is an R package and Shiny webapplication to visualize Adverse 
