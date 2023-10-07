@@ -1,6 +1,6 @@
 Package: xploreaop
 Title: What the Package Does (One Line, Title Case)
-Version: 1.1.0.9000
+Version: 1.1.0.
 Authors@R: 
     person("Marc", "Teunis", , "marc.teunis@hu.nl", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-3496-6669"))
